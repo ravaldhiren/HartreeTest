@@ -1,0 +1,3 @@
+pandas==1.3.3
+apache-beam[dataframe]==2.34.0
+pytest==6.2.5
